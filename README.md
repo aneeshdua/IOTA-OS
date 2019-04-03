@@ -1,35 +1,37 @@
 # IOTA OS
 
-It is a command line Operating System built in C# and Cosmos User Kit. It has the following features
+![](images/Boot.png)
 
-*Elementry Functions
-    *Shutdown
-    *Reboot
-    *Clear
-    *Lock Screen
-    *Sudo Access
-    *Help
-    *System Date/Time
+It is a command line Operating System built in C# and Cosmos User Kit. It has the following features:
 
-*File System Functionalities
-    *Change Directory
-    *List files and folder under current directory
-    *Create Directory
-    *Delete Directory
-    *Delete File
-    *Open file
-    *Move File
-    *Copy File
-    *Concatenate Files
-    *Search
-    *Current Disk Space
-    *Recycle Bin
+* Elementry Functions
+    * Shutdown
+    * Reboot
+    * Clear
+    * Lock Screen
+    * Sudo Access
+    * Help
+    * System Date/Time
 
-*Calculator       
+* File System Functionalities
+    * Change Directory
+    * List files and folder under current directory
+    * Create Directory
+    * Delete Directory
+    * Delete File
+    * Open file
+    * Move File
+    * Copy File
+    * Concatenate Files
+    * Search
+    * Current Disk Space
+    * Recycle Bin
 
-*Software Applications
-    *Text Editor
-    *Snake(Game)
+* Calculator       
+
+* Software Applications
+    * Text Editor
+    * Snake(Game)
 
 ## Getting Started
 
@@ -37,9 +39,9 @@ The .sln file can be opened in Visual Studio and can be used for development pur
 
 ### Prerequisites
 
-*Visual Studio 2017 with C# and Azure Development Packages
-*Cosmos User Kit
-*.NET Framework
+* Visual Studio 2017 with C# and Azure Development Packages
+* Cosmos User Kit
+* .NET Framework
 
 
 ## Built With
