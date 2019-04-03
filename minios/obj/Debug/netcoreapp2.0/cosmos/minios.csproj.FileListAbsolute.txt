@@ -1,0 +1,9 @@
+C:\Users\GHOST\source\repos\minios\minios\bin\Debug\netcoreapp2.0\cosmos\minios.deps.json
+C:\Users\GHOST\source\repos\minios\minios\bin\Debug\netcoreapp2.0\cosmos\minios.dll
+C:\Users\GHOST\source\repos\minios\minios\bin\Debug\netcoreapp2.0\cosmos\minios.pdb
+C:\Users\GHOST\source\repos\minios\minios\obj\Debug\netcoreapp2.0\cosmos\minios.csproj.CoreCompileInputs.cache
+C:\Users\GHOST\source\repos\minios\minios\obj\Debug\netcoreapp2.0\cosmos\minios.AssemblyInfoInputs.cache
+C:\Users\GHOST\source\repos\minios\minios\obj\Debug\netcoreapp2.0\cosmos\minios.AssemblyInfo.cs
+C:\Users\GHOST\source\repos\minios\minios\obj\Debug\netcoreapp2.0\cosmos\minios.dll
+C:\Users\GHOST\source\repos\minios\minios\obj\Debug\netcoreapp2.0\cosmos\minios.pdb
+C:\Users\GHOST\source\repos\minios\minios\obj\Debug\netcoreapp2.0\cosmos\minios.csprojAssemblyReference.cache
